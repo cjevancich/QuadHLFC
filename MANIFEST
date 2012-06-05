@@ -1,0 +1,17 @@
+README.txt
+setup.py
+./bin/quadhlfc
+./quadhlfc/__init__.py
+./quadhlfc/core/__init__.py
+./quadhlfc/core/afproto.py
+./quadhlfc/core/afprotowatcher.py
+./quadhlfc/core/controlgw.py
+./quadhlfc/core/crc8.py
+./quadhlfc/core/evloop.py
+./quadhlfc/core/llfc.py
+./quadhlfc/core/pubsub.py
+./quadhlfc/core/settings.py
+./quadhlfc/core/video_display.py
+./quadhlfc/core/video_stream_server.py
+./quadhlfc/resource/__init__.py
+quadhlfc/resource/icons/python-powered.png
